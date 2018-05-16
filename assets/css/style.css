@@ -152,3 +152,58 @@ p {
     top: 400px; 
     left: 10px;
 }
+
+#label1 {
+    background: #4aaaa5;
+    color: white;
+    width: 180px;
+    padding: 10px;
+    position: absolute; 
+    left: 30px;
+    top: 100px;
+    text-align: center;
+}
+
+#label2 {
+    background: #4aaaa5;
+    color: white;
+    width: 180px;
+    padding: 10px;
+    position: absolute;
+    left: 320px;
+    top: 100px;
+    text-align: center;
+}
+
+#label3 {
+    background: #4aaaa5;
+    color: white;
+    width: 180px;
+    padding: 10px;
+    position: absolute;
+    left: 30px;
+    top: 300px;
+    text-align: center;
+}
+
+#label4 {
+    background: #4aaaa5;
+    color: white;
+    width: 180px;
+    padding: 10px;
+    position: absolute;
+    left: 320px;
+    top: 300px;
+    text-align: center;
+}
+
+#label5 {
+    background: #4aaaa5;
+    color: white;
+    width: 180px;
+    padding: 10px;
+    position: absolute;
+    left: 30px;
+    top: 500px;
+    text-align: center;
+}
